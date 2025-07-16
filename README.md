@@ -139,7 +139,7 @@ npx expo run:android
 ```
 
 ## 📁 Estrutura de Pastas
-
+```bash
 app-rastreamento/
 ├── assets/                      # Arquivos estáticos
 │   ├── images/logo/             # Logos
@@ -156,6 +156,7 @@ app-rastreamento/
 ├── eas.json                     # Configuração de builds
 ├── package.json                 # Dependências
 └── tsconfig.json                # Configuração TypeScript
+```
 
 ## 📜 Scripts Disponíveis
 
